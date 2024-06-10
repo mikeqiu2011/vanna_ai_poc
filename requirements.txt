@@ -1,0 +1,2 @@
+jupyterlab
+vanna[chromadb,ollama]
